@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @tokyoamp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tokyoamp/tokyoamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 oii, eu sou Joao
+- meu e-mail de contato  é costa.franca@escola.pr.gov.br 
+-estou interessado em aprender a prograr liguagem de código
+- eu estou apredendo a  programar recentemente a linguagem de JavaScript
